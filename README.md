@@ -1,4 +1,4 @@
-## React - Passing Thoughts
+## React Project - Passing Thoughts
 
 What if you could post something and know it wouldn’t live forever?  
 In this project, we’ll build a place for our passing thoughts.  
